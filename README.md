@@ -4,7 +4,7 @@
 # pkg install git
 # pip2 install requests
 # pip2 install mechanize
-# git clone https://github.com/EgiRecod/crackfb
+# git clone https://github.com/flyngdutchman/crackfb
 # cd crackfb
 # python2 crack.py
 # DONE
